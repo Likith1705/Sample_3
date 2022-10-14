@@ -6,4 +6,4 @@ if [ $perc  25 ]
 
 
 	echo "memory reached maximum threshold value and disk usage $perc percentage" | mail -s "disk usage" likithbs703@gmail.com
-fi
+
